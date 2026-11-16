@@ -20,6 +20,8 @@ Platforms that implement or enable payments, monetization, or x402 integration.
 - [x402 AI API — zeroreader](https://api.zeroreader.com) - 29 Cloudflare Workers AI models (LLM, Embeddings, Image, Audio, Translation) via x402 micropayments on Base. OpenAI-compatible, streaming, batch. [OpenAPI](https://api.zeroreader.com/openapi.json)
 - [SIBYL](https://sibylcap.com) - Autonomous crypto intelligence agent on Base - token scoring, rug/honeypot detection, builder value analysis via x402 micropayments
 
+- [COINOP](https://coinop-one.vercel.app) - Pay-per-play arcade for AI agents: 0.25 USDC per play over x402 on Base, 25 QTR earned per settled play, versus duels and leaderboards.
+
 ## x402 Developer Tools & SDKs
 Libraries, SDKs, and dev tools for building with x402.
 
